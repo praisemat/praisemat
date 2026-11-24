@@ -1,9 +1,10 @@
-<h2 align="center">Oi, eu sou o Mateus</h2>
+<h2 align="center">oi, eu sou o Mateus</h2>
 
 <p align="center">
-  Trabalho na indústria em Marechal Floriano (ES), entre o chão de fábrica e o código:<br>
-  OEE, CLP, supervisório e as ferramentas que a gente precisa e ainda não existem.<br>
-  Estudo Sistemas de Informação na UVV.
+  Trabalho numa indústria de água mineral em Marechal Floriano (ES), onde passo o dia<br>
+  convencendo CLP a mandar dado e planilha a virar sistema.<br>
+  Se tem algum processo que "sempre foi feito assim", provavelmente eu tô tentando acabar com ele.<br>
+  Estudo Sistemas de Informação na UVV no tempo que sobra (spoiler: não sobra).
 </p>
 
 <br>
