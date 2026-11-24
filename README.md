@@ -1,7 +1,4 @@
-# Olá, eu sou o Mateus 👋
-
-Assistente Industrial na **Água Pedra Azul** (Marechal Floriano, ES) e estudante de Sistemas de Informação na UVV.
-Trabalho com OEE, KPIs, automação industrial e desenvolvimento de ferramentas para o chão de fábrica.
+oi 
 
 ## 💻 Linguagens
 
