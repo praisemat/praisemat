@@ -1,10 +1,10 @@
 <h2 align="center">oi, eu sou o Mateus</h2>
 
 <p align="center">
-  Trabalho numa indústria de água mineral em Marechal Floriano (ES), onde passo o dia<br>
-  convencendo CLP a mandar dado e planilha a virar sistema.<br>
-  Se tem algum processo que "sempre foi feito assim", provavelmente eu tô tentando acabar com ele.<br>
-  Estudo Sistemas de Informação na UVV.
+  Trabalho em uma indústria de água mineral em Marechal Floriano, ES.
+  Sou algo entre o TI, TA e o chão de fábrica. Desenvolvo sistemas internos e cuido da automação de todas as linhas de produção.
+
+  Meu sonho é exterminar todas as planilhas de excel do planeta
 </p>
 
 <br>
