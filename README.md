@@ -4,7 +4,7 @@
   Trabalho numa indústria de água mineral em Marechal Floriano (ES), onde passo o dia<br>
   convencendo CLP a mandar dado e planilha a virar sistema.<br>
   Se tem algum processo que "sempre foi feito assim", provavelmente eu tô tentando acabar com ele.<br>
-  Estudo Sistemas de Informação na UVV no tempo que sobra (spoiler: não sobra).
+  Estudo Sistemas de Informação na UVV.
 </p>
 
 <br>
